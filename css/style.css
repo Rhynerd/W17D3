@@ -1,0 +1,32 @@
+.navBar{
+    background-color: lightgrey;
+}
+.navButton{
+    display: inline-block;
+    color: white;
+    background-color: dimgray;
+    padding: 8px;
+}
+
+.left{
+    background-color: aqua;
+    height: 400px;
+    width: 29%;
+    display: inline-block;
+}
+.leftImage{
+    background-color: orange;
+    height: 40%;
+}
+.leftBody{
+    background-color: brown;
+    height: 60%;
+}
+
+.right{
+    background-color: darkblue;
+    height: 400px;
+    width: 70%;
+    display: inline-block;
+}
+
